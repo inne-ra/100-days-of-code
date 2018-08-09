@@ -29,3 +29,10 @@ link: I worked locally
 
 ### R1D7
 Tidying up the logs and see how far I went in this new rally. Found a links library on Jen Simmons' website. (https://public.etherpad-mozilla.org/p/AEABOS-links)
+
+### R1D8
+No coding session. Got a severe headache and fever T_T
+
+### R1D9
+Felt much better and working on a webpage, combining the CSS Grid as scaffolding and flexbox as it's "cover". Finally had some better understanding about how to work them out together in a webpage. ^_^
+link: I worked locally
