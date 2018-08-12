@@ -36,3 +36,10 @@ No coding session. Got a severe headache and fever T_T
 ### R1D9
 Felt much better and working on a webpage, combining the CSS Grid as scaffolding and flexbox as it's "cover". Finally had some better understanding about how to work them out together in a webpage. ^_^
 link: I worked locally
+
+### R1D10
+Add some tweaks to the yesterday's webpage
+
+### R1D11
+Watched Grid and Flexbox video tutorials by Rachel Andrew and Jen Simmons. Learned a lot and still need more practice to sharpening my skill in building the web skin
+
